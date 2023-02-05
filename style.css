@@ -1,0 +1,138 @@
+@media screen (max-width: 650%;){
+
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(0, 212, 255) !important;
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 15%, rgba(9, 9, 121, 1) 86%, rgba(2, 0, 36, 1) 100%) !important;
+
+}
+
+.header {
+    background: rgb(0, 212, 255) !important;
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 15%, rgba(9, 9, 121, 1) 86%, rgba(2, 0, 36, 1) 100%) !important;
+}
+
+.firstimages {
+    display: flex;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 52%, rgba(4,3,60,1) 83%, rgba(0,212,255,1) 96%);
+}
+
+.imagei {
+    margin-left: 5%;
+}
+
+img {
+    max-width: 45%;
+}
+
+.imageii {
+    margin-top: 8%;
+    margin-left: 10%;
+    max-width: 100%;
+}
+
+.text {
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 15%;
+}
+
+.heading {
+    color: yellowgreen;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 52%, rgba(4,3,60,1) 83%, rgba(0,212,255,1) 96%);
+}
+
+.imageiii {
+    margin-top: 6%;
+    float: right;
+    max-width: 36%;
+    margin-left: 5%;
+}
+
+.p1 {
+    margin-top: 15%;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p2 {
+    margin-top: 5%;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p3 {
+    margin-top: 7%;
+}
+
+.TEAM {
+    display: flex;
+    text-align: center;
+}
+
+.member1 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 20%;
+    border-radius: 10%;
+}
+
+.member2 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.member3 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.member4 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.member5 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.member6 {
+    max-width: 15%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.last {
+    margin-left: 29%;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.member7 {
+    max-width: 45%;
+    margin-top: 1%;
+    margin-left: 35%;
+}
+
+.last1 {
+    text-align: center;
+    }
